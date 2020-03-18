@@ -2,7 +2,7 @@
 
 
 Convert text with ANSI escape sequences to styled HTML.
-
+.
 ## Example
 
 ```
